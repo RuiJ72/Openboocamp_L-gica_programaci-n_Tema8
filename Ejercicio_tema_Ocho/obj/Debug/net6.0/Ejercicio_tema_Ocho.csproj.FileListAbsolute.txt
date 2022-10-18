@@ -1,0 +1,15 @@
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\bin\Debug\net6.0\Ejercicio_tema_Ocho.exe
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\bin\Debug\net6.0\Ejercicio_tema_Ocho.deps.json
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\bin\Debug\net6.0\Ejercicio_tema_Ocho.runtimeconfig.json
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\bin\Debug\net6.0\Ejercicio_tema_Ocho.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\bin\Debug\net6.0\Ejercicio_tema_Ocho.pdb
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\Ejercicio_tema_Ocho.csproj.AssemblyReference.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\Ejercicio_tema_Ocho.GeneratedMSBuildEditorConfig.editorconfig
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\Ejercicio_tema_Ocho.AssemblyInfoInputs.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\Ejercicio_tema_Ocho.AssemblyInfo.cs
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\Ejercicio_tema_Ocho.csproj.CoreCompileInputs.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\Ejercicio_tema_Ocho.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\refint\Ejercicio_tema_Ocho.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\Ejercicio_tema_Ocho.pdb
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\Ejercicio_tema_Ocho.genruntimeconfig.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio_tema_Ocho\Ejercicio_tema_Ocho\obj\Debug\net6.0\ref\Ejercicio_tema_Ocho.dll
