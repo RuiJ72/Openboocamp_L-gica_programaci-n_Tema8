@@ -2,4 +2,4 @@
 ## Encapsulación ##
 ## Creción de la clase Persona convariables privadas ##
 ## Creacióm de gets e sets para cada propriedad llamando la aplicación
-por lo Main dandoles valores ##
+## por lo Main dandoles valores ##
